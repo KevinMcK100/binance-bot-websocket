@@ -1,3 +1,5 @@
+# Binance Bot Websocket
+
 Websocket bot for the Binance exchange. 
 
 Monitors all trades placed by the [crypto-trading-bot](https://github.com/KevinMcK100/crypto-trading-bot) and calls back to its Lambda Functions to provide notification of filled orders.
