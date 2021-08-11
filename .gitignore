@@ -1,3 +1,5 @@
+.DS_Store
+.idea
 binance-bot-websocket/.config.json
 binance-bot-websocket/app.py.log
 venv
