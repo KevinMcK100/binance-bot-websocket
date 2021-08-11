@@ -1,0 +1,6 @@
+binance-bot-websocket/.config.json
+binance-bot-websocket/app.py.log
+venv
+.envvars
+app.py.log
+binance-bot-websocket.pyz

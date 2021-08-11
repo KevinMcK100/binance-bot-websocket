@@ -1,0 +1,11 @@
+{
+  "SERVICE_ENDPOINT": "https://order-update-event-service/orderUpdateEvent",
+  "USERS": {
+    "1234567": {
+      "BOT_API_KEY": "AUTH_KEY",
+      "EXCHANGE_API_KEY": "TESTNET_API_KEY",
+      "EXCHANGE_SECRET_KEY": "TESTNET_API_SECRET",
+      "WEBSOCKET_ACTIVE": true
+    }
+  }
+}
